@@ -1,0 +1,10 @@
+{
+  "format": 1,
+  "hardware": "LC-S3-01",
+  "version": "0.0.0",
+  "build": "PLACEHOLDER",
+  "size": 0,
+  "package": "https://michele1-eng.github.io/level-control-updates/stable/levelcontrol-0.0.0.lcu",
+  "auth": "DA_GENERARE_CON_make_lcu.py",
+  "notes": "Manifest provvisorio. Nessun aggiornamento pubblicato."
+}
